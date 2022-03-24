@@ -1,0 +1,22 @@
+INICIO
+Crie as variáveis; 
+Digite o nome do funcionário; 
+Ler o nome do funcionário; 
+Digite a idade do funcionário; 
+Leia a idade do funcionário; 
+Caso a idade do funcionário seja superior a 60 anos, exiba: “Possui o plano de aposentadoria”;
+Se não, exiba: “Não possui o plano de aposentadoria”;
+Digite o estado civil do funcionário;
+Leia o estado civil;
+Digite quantos filhos o funcionário possui;
+Leia o número de filhos do funcionário;
+Se o funcionário tiver filhos, exiba: “Tem direito ao auxílio família”;
+Se não, exiba: “ Não tem direito ao auxílio família”;
+Digite o tempo em anos que o funcionário trabalha na empresa;
+Se o funcionário tiver um tempo de empresa superior a 5 anos, exiba: “Tem direito ao abono salarial”;
+Se não, exiba “Não tem direito ao abono salarial”;
+Digite o valor do salário do funcionário;
+Leia o valor do salário;
+Se o salário do funcionário for superior a 4.300 reais, exiba: “Tem acesso ao seguro de vida e ao seguro de saúde”;
+Se não, exiba: “Não tem acesso ao seguro de vida e ao seguro de saúde”;
+FIM
